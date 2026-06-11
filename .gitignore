@@ -1,0 +1,10 @@
+# Compiled / temp junk
+*.bak
+Thumbs.db
+desktop.ini
+
+# Packet Tracer autosave files
+*.pkt.bak
+
+# Word temp files
+~$*.docx
